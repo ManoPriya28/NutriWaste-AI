@@ -1,0 +1,11 @@
+FoodItem,Calories,Carbs,Protein,Fat,Category,Unit
+Oats,389,66,16,6,Carb Source,grams
+Chicken Breast,165,0,31,3.6,Protein Source,grams
+Sweet Potato,86,20,1.6,0.1,Carb Source,grams
+Broccoli,34,7,2.8,0.4,Vegetable,grams
+Olive Oil,884,0,0,100,Fat Source,grams
+Rice (White),130,28,2.7,0.3,Carb Source,grams
+Eggs,155,1.1,13,11,Protein Source,grams
+Almonds,579,21,21,49,Fat Source,grams
+Greek Yogurt,59,3.6,10,0.4,Protein Source,grams
+Spinach,23,3.6,2.9,0.4,Vegetable,grams
